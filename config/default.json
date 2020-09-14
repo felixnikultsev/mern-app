@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Mern App Secret Key",
+    "mongoUri": "mongodb+srv://felix:kerosin77@cluster0.dsgvg.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

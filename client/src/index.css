@@ -1,0 +1,19 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.button-login {
+    margin-right: 15px;
+}
+
+.navbar {
+    padding: 0 20px;
+}
+
+.create-input {
+    padding-top: 2rem;
+}
+
+.loader-spinner {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
